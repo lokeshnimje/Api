@@ -1,0 +1,207 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Surya",
+      "phone": "8688768678",
+      "address": "New York, USA"
+    },
+    {
+      "id": 2,
+      "name": "Lokesh",
+      "phone": "959887678",
+      "address": "Raipur, India"
+    },
+    {
+      "id": 3,
+      "name": "Kamesh",
+      "phone": "9743768678",
+      "address": "Bhopal, India"
+    },
+    {
+      "id": 4,
+      "name": "Arjun",
+      "phone": "8681123678",
+      "address": "Wuhan ,China "
+    },
+    {
+      "name": "Abhishek",
+      "phone": "9847743798",
+      "address": "Rajasthan, India",
+      "id": 5
+    },
+    {
+      "name": "Abhinav",
+      "phone": "7640984333",
+      "address": "Delhi, India",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Yogesh",
+      "phone": "664887678",
+      "address": "France, Europe"
+    },
+    {
+      "id": 8,
+      "name": "Prateek",
+      "phone": "6376568678",
+      "address": "Chennai, India"
+    },
+    {
+      "id": 9,
+      "name": "Rinish",
+      "phone": "9748523678",
+      "address": "Lucknow, India"
+    },
+    {
+      "name": "Rocky",
+      "phone": "7853449854",
+      "address": "Bangalore, India",
+      "id": 10
+    },
+    {
+      "name": "Vijay",
+      "phone": "6499850455",
+      "address": "Nagpur, India",
+      "id": 11
+    },
+    {
+      "name": "Mahesh",
+      "phone": "8779365333",
+      "address": "Mysore, India",
+      "id": 12
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Denim_Jacket",
+      "price": 899,
+      "desc": "khaaki solid Denim jacket",
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/1/12/aa0a6ee6-db24-460b-b95c-b2527eb450c31610446543809-1.jpg",
+      "category_name": "fashion"
+    },
+    {
+      "id": 2,
+      "name": "Jacket",
+      "price": 699,
+      "desc": "Black solid parachute jacket",
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/17/cdcc0803-52a6-4a72-909c-6e03794f444a1576532209419-1.jpg",
+      "category_name": "fashion"
+    },
+    {
+      "id": 3,
+      "name": "T-shirt",
+      "price": 399,
+      "desc": "Printed round neck T-shirt",
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11748004/2020/6/17/4c95ba8c-0bae-418d-ac58-df246591a28a1592382915303-HERENOW-Men-Tshirts-4571592382913524-1.jpg",
+      "category_name": "fashion"
+    },
+    {
+      "id": 4,
+      "name": "Shirt",
+      "price": 859,
+      "desc": "check full sleeve cotton shirt",
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6849354/2018/12/12/81d5a723-1ebd-4a8b-bf1b-6265b663bb021544597641853-Roadster-Men-Shirts-7281544597639976-1.jpg",
+      "category_name": "fashion"
+    },
+    {
+      "id": 5,
+      "name": "Jeans",
+      "price": 1250,
+      "desc": "Men slim fit jeans",
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2948543/2018/3/30/11522394099790-HIGHLANDER-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-5171522394099590-1.jpg",
+      "category_name": "fashion"
+    },
+    {
+      "id": 6,
+      "name": "Shorts",
+      "price": 499,
+      "desc": "Mens Regular fit chino shorts",
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2292045/2019/5/21/d49ff1b9-94d1-4bb3-8b27-1329693c485e1558427994983-Roadster-Men-Olive-Green-Solid-Regular-Fit-Chino-Shorts-7701-1.jpg",
+      "category_name": "fashion"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "id": 7676767,
+          "qty": 3,
+          "price": 223.76
+        }
+      ],
+      "order": 598344,
+      "customer_name": "Nrupul",
+      "delivered": "Delivered",
+      "date_of_order": "Sat Jan 24 2019",
+      "total_pay": 7878.89
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "id": 7676767,
+          "qty": 3,
+          "price": 223.76
+        }
+      ],
+      "order": 234744,
+      "customer_name": "Abhinav",
+      "delivered": "Delivered",
+      "date_of_order": "Tue Apr 04 2020",
+      "total_pay": 5608.81
+    },
+    {
+      "customer_name": "lokesh",
+      "total_pay": "6665.82",
+      "date_of_order": "Sun Jan 24 2021",
+      "delivered": "Delivered",
+      "id": 3
+    },
+    {
+      "customer_name": "kamesh",
+      "total_pay": "3134.08",
+      "date_of_order": "Sun May 23 2021",
+      "delivered": "Pending",
+      "id": 4
+    },
+    {
+      "customer_name": "arjun",
+      "total_pay": "3134.08",
+      "date_of_order": "Mon May 24 2021",
+      "delivered": "Pending",
+      "id": 5
+    },
+    {
+      "customer_name": "Rocky",
+      "total_pay": "28676.36",
+      "date_of_order": "Sat May 29 2021",
+      "delivered": "Pending",
+      "id": 6
+    },
+    {
+      "customer_name": "Vijay",
+      "total_pay": "32068.86",
+      "date_of_order": "Sun May 30 2021",
+      "delivered": "Pending",
+      "id": 7
+    },
+    {
+      "customer_name": "Mahesh",
+      "total_pay": "36954.06",
+      "date_of_order": "Sun May 30 2021",
+      "delivered": "Pending",
+      "id": 8
+    },
+    {
+      "customer_name": "Abhishek",
+      "total_pay": "10608.2",
+      "date_of_order": "Sun May 30 2021",
+      "delivered": "Pending",
+      "id": 9
+    }
+  ]
+}
